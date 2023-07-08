@@ -5,10 +5,9 @@ Hi there, I'm <a href="http://shriidhar.dev/" target="_blank" rel="noreferrer">S
 </h2>
 
 Hi, I'm Shridhar! I'm a product-focused staff software engineer 💻 with 10+ years of experience in frontend and backend technologies, including React, Lit Elements, TypeScript, Java, MobX, and Vaadin. I have substantial experience in improving application performance as well as improving the developer experience.
-<br /><br />
+<br />
 
 In addition to my technical skills, I have actively sought opportunities to enhance my leadership and communication abilities. My experience in leading and motivating teams has enabled me to deliver projects on time while maintaining a high level of quality.
-
 <br />
 
 ☞ Can decompose large and complex features into small deliverables. <br />
@@ -20,10 +19,9 @@ In addition to my technical skills, I have actively sought opportunities to enha
 ☞ Ability to teach & mentor. <br />
 ☞ Collaborative Nature. <br />
 ☞ Problem Solver.
-
 <br /> <br />
 
-### 🤝 You can follow me on
+## 🤝 You can follow me on
 
 <a href="https://www.linkedin.com/in/shriidhar/" target="_blank"><img src="./images/linkedin.svg" width="18px" align="left" alt="Shridhar | LinkedIn" /></a>
 <a href="https://github.com/Shridhad" target="_blank">
