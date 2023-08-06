@@ -22,11 +22,10 @@ In addition to my technical skills, I have actively sought opportunities to enha
 <br /> <br />
 
 <div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shridhad&theme=dark&hide_border=true&exclude_days=Sun%2CSat&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&excludeDaysLabel=03030300)](https://git.io/streak-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shridhad&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&excludeDaysLabel=EB545400)](https://git.io/streak-stats)
-
 </div>
-
 
 
 
