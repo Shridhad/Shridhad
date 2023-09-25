@@ -7,7 +7,7 @@ Hi there, I'm <a href="http://shriidhar.dev/" target="_blank" rel="noreferrer">S
 Hi, I'm Shridhar! I'm a product-focused staff software engineer 💻 with 10+ years of experience in frontend and backend technologies, including React, Lit Elements, TypeScript, Java, MobX, and Vaadin. I have substantial experience in improving application performance as well as improving the developer experience.
 <br />
 
-In addition to my technical skills, I have actively sought opportunities to enhance my leadership and communication abilities. My experience in leading and motivating teams has enabled me to deliver projects on time while maintaining a high level of quality.
+In addition to my technical skills, I have actively sought opportunities to enhance my leadership and communication abilities. My experience in leading and motivating teams has enabled me to deliver projects on time while maintaining a high quality.
 <br />
 
 ☞ Can decompose large and complex features into small deliverables. <br />
@@ -23,10 +23,10 @@ In addition to my technical skills, I have actively sought opportunities to enha
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shridhad&theme=dark&hide_border=true&exclude_days=Sun%2CSat&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&excludeDaysLabel=03030300)](https://git.io/streak-stats)
-  
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shridhad&theme=dark&background=2e3440&exclude_days=Sun%2CSat&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&excludeDaysLabel=03030300)](https://git.io/streak-stats) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shridhad&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 
 ## 🤝 Let's Connect!
